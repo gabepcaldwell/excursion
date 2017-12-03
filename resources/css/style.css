@@ -8,6 +8,7 @@ h1{
 .cta{
   color: Aquamarine;
   font-size: 16px
+  text-align: center
 }
 .travelguide{
   font-family: Verdana;
@@ -25,4 +26,5 @@ h1{
 }
 .background{
   background-color: black;
+  text-align: center;
 }
