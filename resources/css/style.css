@@ -1,0 +1,28 @@
+h1{
+  font-family: Verdana;
+  font-weight: Normal;
+  font-size: 50x;
+  color: white;
+  text-align: center;
+}
+.cta{
+  color: Aquamarine;
+  font-size: 16px
+}
+.travelguide{
+  font-family: Verdana;
+  font-weight: 300;
+  font-size: 42px;
+}
+.remembers{
+  font-family: Verdana;
+  font-size: 21;
+  color: gray;
+}
+.excursion{
+  text-align: right;
+  color: gray;
+}
+.background{
+  background-color: black;
+}
